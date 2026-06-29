@@ -107,5 +107,3 @@ This project demonstrates how Machine Learning can be used to predict student pe
 **Name:** Ashvin
 
 **Course:** B.Tech CSE(Artificial Intelligence & Machine Learning)
-
-**Project:** Minor Project
